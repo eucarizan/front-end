@@ -11,8 +11,8 @@
 - hyperskill Frontend projects
 #### projects
 ##### easy
-  - [ ] [case converter](https://github.com/eucarizan/case-converter/blob/main/README.md) `⭐4.4` `~6hr`
-    - [ ] 1 - the converter
-    - [ ] 2 - upper or lower?
-    - [ ] 3 - save me
+  - [x] [case converter](https://github.com/eucarizan/case-converter/blob/main/README.md) `⭐4.4` `~6hr`
+    - [x] 1 - the converter
+    - [x] 2 - upper or lower?
+    - [x] 3 - save me
     
