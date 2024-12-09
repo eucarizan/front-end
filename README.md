@@ -12,10 +12,10 @@
 - hyperskill Frontend projects
 #### projects
 ##### easy
-  - [ ] [first project](https://github.com/eucarizan/js-fp/blob/main/README.md) `⭐4.0` `~2hr`
-    - [ ] 1 - print the prices
-    - [ ] 2 - measure the total income of your shop
-    - [ ] 3 - calculate net income
+  - [x] [first project](https://github.com/eucarizan/js-fp/blob/main/README.md) `⭐4.0` `~2hr`
+    - [x] 1 - print the prices
+    - [x] 2 - measure the total income of your shop
+    - [x] 3 - calculate net income
   - [x] [case converter](https://github.com/eucarizan/case-converter/blob/main/README.md) `⭐4.4` `~6hr`
     - [x] 1 - the converter
     - [x] 2 - upper or lower?
