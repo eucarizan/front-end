@@ -25,10 +25,10 @@
     - [x] 2 - show me an animal
     - [x] 3 - what's inside
     - [x] 4 - sustainable care <3
-  - [ ] [chalkboard printer](https://github.com/eucarizan/chalkboard-printer/blob/main/README.md) `⭐4.1` `~4hr`
-    - [ ] 1 - log your first joke
-    - [ ] 2 - ask the user
-    - [ ] 3 - too many repeats
+  - [x] [chalkboard printer](https://github.com/eucarizan/chalkboard-printer/blob/main/README.md) `⭐4.1` `~4hr`
+    - [x] 1 - log your first joke
+    - [x] 2 - ask the user
+    - [x] 3 - too many repeats
 
 ##### medium
   - [x] [spin the bottle](https://github.com/eucarizan/spin-the-bottle/blob/main/README.md) `⭐4.5` `~7hr`
