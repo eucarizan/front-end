@@ -12,14 +12,19 @@
 - hyperskill Frontend projects
 #### projects
 ##### easy
-  - [x] [first project](https://github.com/eucarizan/js-fp/blob/main/README.md) `⭐4.0` `~2hr`
-    - [x] 1 - print the prices
-    - [x] 2 - measure the total income of your shop
-    - [x] 3 - calculate net income
   - [x] [case converter](https://github.com/eucarizan/case-converter/blob/main/README.md) `⭐4.4` `~6hr`
     - [x] 1 - the converter
     - [x] 2 - upper or lower?
     - [x] 3 - save me
+  - [x] [first project](https://github.com/eucarizan/js-fp/blob/main/README.md) `⭐4.0` `~2hr`
+    - [x] 1 - print the prices
+    - [x] 2 - measure the total income of your shop
+    - [x] 3 - calculate net income
+  - [ ] [zookeper (javascript)](https://github.com/eucarizan/zookeper-js/blob/main/README.md) `⭐4.1` `~4hr`
+    - [ ] 1 - rush into print
+    - [ ] 2 - show me an animal
+    - [ ] 3 - what's inside
+    - [ ] 4 - sustainable care <3
 
 ##### medium
   - [x] [spin the bottle](https://github.com/eucarizan/spin-the-bottle/blob/main/README.md) `⭐4.5` `~7hr`
