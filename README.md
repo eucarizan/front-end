@@ -20,11 +20,11 @@
     - [x] 1 - print the prices
     - [x] 2 - measure the total income of your shop
     - [x] 3 - calculate net income
-  - [ ] [zookeper (javascript)](https://github.com/eucarizan/zookeper-js/blob/main/README.md) `⭐4.1` `~4hr`
-    - [ ] 1 - rush into print
-    - [ ] 2 - show me an animal
-    - [ ] 3 - what's inside
-    - [ ] 4 - sustainable care <3
+  - [x] [zookeper (javascript)](https://github.com/eucarizan/zookeeper-js/blob/main/README.md) `⭐4.1` `~4hr`
+    - [x] 1 - rush into print
+    - [x] 2 - show me an animal
+    - [x] 3 - what's inside
+    - [x] 4 - sustainable care <3
 
 ##### medium
   - [x] [spin the bottle](https://github.com/eucarizan/spin-the-bottle/blob/main/README.md) `⭐4.5` `~7hr`
