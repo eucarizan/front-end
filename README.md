@@ -29,6 +29,13 @@
     - [x] 1 - log your first joke
     - [x] 2 - ask the user
     - [x] 3 - too many repeats
+  - [ ] [coffee machine](https://github.com/eucarizan/coffee-machine-js/blob/main/README.md) `⭐4.4` `~6hr`
+    - [ ] 1 - making coffee
+    - [ ] 2 - ingredient calculator
+    - [ ] 3 - coffee for all
+    - [ ] 4 - buy fill take
+    - [ ] 5 - keeping track of the supplies
+    - [ ] 6 - the sandbox
 
 ##### medium
   - [x] [spin the bottle](https://github.com/eucarizan/spin-the-bottle/blob/main/README.md) `⭐4.5` `~7hr`
