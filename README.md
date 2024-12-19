@@ -29,6 +29,12 @@
     - [x] 1 - log your first joke
     - [x] 2 - ask the user
     - [x] 3 - too many repeats
+
+##### medium
+  - [x] [spin the bottle](https://github.com/eucarizan/spin-the-bottle/blob/main/README.md) `⭐4.5` `~7hr`
+    - [x] 1 - let's set the stage
+    - [x] 2 - spin the wheel
+    - [x] 3 - player recruitment time
   - [x] [coffee machine](https://github.com/eucarizan/coffee-machine-js/blob/main/README.md) `⭐4.4` `~6hr`
     - [x] 1 - making coffee
     - [x] 2 - ingredient calculator
@@ -36,9 +42,9 @@
     - [x] 4 - buy fill take
     - [x] 5 - keeping track of the supplies
     - [x] 6 - the sandbox
-
-##### medium
-  - [x] [spin the bottle](https://github.com/eucarizan/spin-the-bottle/blob/main/README.md) `⭐4.5` `~7hr`
-    - [x] 1 - let's set the stage
-    - [x] 2 - spin the wheel
-    - [x] 3 - player recruitment time
+  - [ ] [carnival gift shop](https://github.com/eucarizan/carnival-gift-shop/blob/main/README.md) `⭐4.1` `~8hr`
+    - [ ] 1 - welcome to the carnival
+    - [ ] 2 - how much
+    - [ ] 3 - what visitor wants
+    - [ ] 4 - can you repeat
+    - [ ] 5 - expect the unexpected
