@@ -42,9 +42,9 @@
     - [x] 4 - buy fill take
     - [x] 5 - keeping track of the supplies
     - [x] 6 - the sandbox
-  - [ ] [carnival gift shop](https://github.com/eucarizan/carnival-gift-shop/blob/main/README.md) `⭐4.1` `~8hr`
-    - [ ] 1 - welcome to the carnival
-    - [ ] 2 - how much
-    - [ ] 3 - what visitor wants
-    - [ ] 4 - can you repeat
-    - [ ] 5 - expect the unexpected
+  - [x] [carnival gift shop](https://github.com/eucarizan/carnival-gift-shop/blob/main/README.md) `⭐4.1` `~8hr`
+    - [x] 1 - welcome to the carnival
+    - [x] 2 - how much
+    - [x] 3 - what visitor wants
+    - [x] 4 - can you repeat
+    - [x] 5 - expect the unexpected
