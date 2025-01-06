@@ -48,3 +48,9 @@
     - [x] 3 - what visitor wants
     - [x] 4 - can you repeat
     - [x] 5 - expect the unexpected
+  - [ ] [simple stopwatch](https://github.com/eucarizan/simple-stopwatch/blob/main/README.md) `⭐4.6` `~7hr`
+    - [ ] 1 - setting the scene
+    - [ ] 2 - start and stop the timer
+    - [ ] 3 - reset and lap the timer
+    - [ ] 4 - stopwatch with the style - bonus
+
