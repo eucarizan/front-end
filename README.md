@@ -53,4 +53,9 @@
     - [x] 2 - start and stop the timer
     - [x] 3 - reset and lap the timer
     - [x] 4 - stopwatch with the style - bonus
+  - [ ] [color guess game](https://github.com/eucarizan/color-guess-game/blob/main/README.md) `⭐4.6` `~8hr`
+    - [ ] 1 - setting up the game screen
+    - [ ] 2 - shuffle the colors
+    - [ ] 3 - gameplay time
+    - [ ] 4 - bonus stage
 
