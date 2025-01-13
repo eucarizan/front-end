@@ -58,4 +58,11 @@
     - [x] 2 - shuffle the colors
     - [x] 3 - gameplay time
     - [x] 4 - bonus stage
+  - [ ] [site for marathon](https://github.com/eucarizan/marathon-site/blob/main/README.md) `⭐4.6` `~8hr`
+    - [ ] 1 - embed iframes
+    - [ ] 2 - style iframes with css
+    - [ ] 3 - add distances and description
+    - [ ] 4 - content styling
+    - [ ] 5 - add a map
+    - [ ] 6 - animate images
 
