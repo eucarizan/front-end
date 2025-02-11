@@ -65,4 +65,10 @@
     - [x] 4 - content styling
     - [x] 5 - add a map
     - [x] 6 - animate images
+  - [x] [random user generator](https://github.com/eucarizan/rand-usr-gen/blob/main/README.md) `⭐4.4` `~12hr`
+    - [x] 1 - random user
+    - [x] 2 - clean up the data
+    - [x] 3 - get more users
+    - [x] 4 - save users
+    - [x] 5 - bonus stage
 
