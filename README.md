@@ -65,10 +65,16 @@
     - [x] 4 - content styling
     - [x] 5 - add a map
     - [x] 6 - animate images
+##### hard
   - [x] [random user generator](https://github.com/eucarizan/rand-usr-gen/blob/main/README.md) `⭐4.4` `~12hr`
     - [x] 1 - random user
     - [x] 2 - clean up the data
     - [x] 3 - get more users
     - [x] 4 - save users
     - [x] 5 - bonus stage
-
+  - [ ] [who wants to be a millionaire](https://github.com/eucarizan/millionaire-game/blob/main/README.md) `⭐4.7` `~11hr`
+    - [ ] 1 - connecting to a json file
+    - [ ] 2 - structure of the game
+    - [ ] 3 - structure of the game
+    - [ ] 4 - hit the bank
+    - [ ] 5 - last touch
